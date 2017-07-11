@@ -20,9 +20,8 @@ The Course Test score –Department Exam: Excellent, Very Good, Good, Medium, Pass
 English Tutor (Contains three features: English local, Internal local, and native): Yes, No
 Class: Failed, Passed
 
-
-Citation request 
-
+Cite the following articles:
 
 1) Tarik A. Rashid, “Improvement on Classification Models of Multiple Classes through Effectual Processes” International Journal of Advanced Computer Science and Applications(IJACSA), 6(7), 2015. http://dx.doi.org/10.14569/IJACSA.2015.060709
 2) Tarik A. Rashid and Nian Kh. Aziz, "Student Academic Performance Using Artificial Intelligence" ZANCO Journal of Pure and Applied Sciences, The official scientific journal of Salahaddin University-Erbil, ZJPAS, 2016, 28 (2); 56-69.
+3) Tarik A. Rashid, " Classification Performance Enhancement for Students Realisation Model", Journal of Zankoi Sulaimani, Part-A- (Pure and Applied Sciences), JZS, 2015, 17-3.
